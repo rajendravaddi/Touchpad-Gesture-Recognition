@@ -1,0 +1,7 @@
+cairosvg
+pillow
+keyboard
+evdev
+torch
+torchvision
+opencv-python
